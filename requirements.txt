@@ -1,0 +1,12 @@
+asari-metabolomics==1.13.1
+khipu-metabolomics==2.0.2
+mass2chem==0.5.0
+matchms==0.28.2
+matplotlib
+numpy
+pandas
+requests
+scipy
+seaborn
+statsmodels
+tqdm
