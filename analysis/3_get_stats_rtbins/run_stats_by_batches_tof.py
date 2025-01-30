@@ -71,7 +71,7 @@ for line in open('elution_parameters_16studies_tof.tsv').readlines()[1:]:
     
 
 pos_candidate_fragments = '''18.01	113	18.010565	water	{'H': 2, 'O': 1}
-14.015	83	14.015649	addition of acetic acid and loss of CO2. Reaction: (+C2H2O2) and (-CO2)	{'C': 1, 'H': 2}
+14.015	83	14.015649	addition of acetic acid and loss of CO2.   Reaction: (+C2H2O2) and (-CO2)	{'C': 1, 'H': 2}
 2.015	80	2.014552	2H	{'H': 2}
 28.0305	59	28.0313	± C2H4, natural alkane chains such as fatty acids	{'C': 2, 'H': 4}
 46.0055	54	46.00548	± CO+H2O (carboxylic acid)	{'C': 1, 'O': 2, 'H': 2}
