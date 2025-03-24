@@ -1,2 +1,6 @@
 __pycache__/
+
+input_data_orbi/
+
 khipu.log
+.DS_Store
